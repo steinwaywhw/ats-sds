@@ -1,4 +1,3 @@
-ats-sds
-=======
+#ATS SDS Library Wrapper
 
-"Simple dynamic string" library wrapper.
+This is a wrapper for [Simple Dynamic String](https://github.com/antirez/sds/) library. Usage examples can be found in `test.dats`.
